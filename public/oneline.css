@@ -1,0 +1,27 @@
+body {
+	margin:0;
+	padding:0;
+}
+#footer {
+	position:fixed;
+	bottom:0;
+	text-align:center;
+	font-size:small;
+	background:#000;
+	color:#000;
+	width:100%;
+	margin:0;
+	padding:0;
+
+}
+
+#footer a{
+	color:#fff;
+}
+#oneLineMessage{
+	margin : 200px 0  0 0;
+	font:36px serif;
+	width:100%;
+	font-weight:bold;
+	text-align:center;
+}
